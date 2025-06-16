@@ -47,7 +47,7 @@ Built with **Flask backend** and multiple recommendation models:
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 Email: raksha.sonawane@example.com  
+- 📧 Email: rakshasonawane999@gmail.com  
 - 🔗 GitHub: [RakshaSonawane](https://github.com/RakshaSonawane)
 
 ---
