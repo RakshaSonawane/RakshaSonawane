@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final year B.E. student at **MET’s Bhujbal Knowledge City, Nashik**
+- 🎓 Final year B.E. student at **MET’s Institute of Engineering, Nashik**
 - 💡 Passionate about building websites and solving real-world problems with data
 - 🌐 Skilled in **HTML, CSS, JavaScript, PHP, MySQL, Python**
 - 🔍 Exploring **Data Analytics**, **Machine Learning**, and **NLP**
@@ -48,7 +48,6 @@ Built with **Flask backend** and multiple recommendation models:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
 - 📧 Email: raksha.sonawane@example.com  
-- 🖥️ Portfolio: [Your Portfolio Link]  
 - 🔗 GitHub: [RakshaSonawane](https://github.com/RakshaSonawane)
 
 ---
