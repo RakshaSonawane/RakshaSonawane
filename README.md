@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 - 💻 Languages: `Python`, `JavaScript`, `C/C++`, `PHP`
-- 🌐 Web Dev: `HTML5`, `CSS3`, `Bootstrap`, `Flask`
+- 🌐 Web Dev: `HTML5`, `CSS3`, `Bootstrap`
 - 🗄️ Databases: `MySQL`
 - 📊 Data Tools: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`
 - 🔧 Tools: `Git`, `VS Code`, `Postman`, `Google Colab`
