@@ -46,7 +46,7 @@ RakshaSonawane/RakshaSonawane is a ✨ special ✨ repository because its README
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raksha-sonawane-34575324b)  
 - 📧 Email: rakshasonawane999@gmail.com  
 - 🔗 GitHub: [RakshaSonawane](https://github.com/RakshaSonawane)
 
