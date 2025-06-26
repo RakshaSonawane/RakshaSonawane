@@ -44,7 +44,7 @@ Built with **Flask backend** and multiple recommendation models:
 RakshaSonawane/RakshaSonawane is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me on
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raksha-sonawane-34575324b)  
 - 📧 Email: rakshasonawane999@gmail.com  
