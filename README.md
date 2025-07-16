@@ -21,7 +21,7 @@
 - 💻 Languages: `Python`, `JavaScript`, `C/C++`, `PHP`
 - 🌐 Web Dev: `HTML5`, `CSS3`, `Bootstrap`
 - 🗄️ Databases: `MySQL`
-- 📊 Data Tools: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `Pytorch`, `tensorflow`
+- 📊 Data Tools: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `Pytorch`, `tensorflow`, `powerBI`
 - 🔧 Tools: `Git`, `VS Code`, `Google Colab`
 
 ---
