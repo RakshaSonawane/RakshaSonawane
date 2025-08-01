@@ -11,7 +11,7 @@
 - 🎓 Final year B.E. student at **MET’s Institute of Engineering, Nashik**
 - 💡 Passionate about building websites and solving real-world problems with data
 - 🌐 Skilled in **HTML, CSS, JavaScript, PHP, MySQL, Python**
-- 🔍 Exploring **Data Analytics**, **Machine Learning**, and **NLP**
+- 🔍 Exploring **Data Analytics**, **Data Science**,**Machine Learning**, and **NLP**
 - 📚 Constantly learning and growing in the tech space!
 
 ---
