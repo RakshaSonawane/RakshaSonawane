@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final year B.E. student at **MET’s Institute of Engineering, Nashik**
+- 🎓 BE Graduate at **MET’s Institute of Engineering, Nashik**
 - 💡 Passionate about building websites and solving real-world problems with data
-- 🌐 Skilled in **HTML, CSS, JavaScript, PHP, MySQL, Python**
+- 🌐 Skilled in **React, Flask, HTML, CSS, JavaScript, PHP, MySQL, Python**
 - 🔍 Exploring **Data Analytics**, **Data Science**, **Machine Learning**, and **NLP**
 - 📚 Constantly learning and growing in the tech space!
 
@@ -19,8 +19,8 @@
 ## 🛠️ Tech Stack
 
 - 💻 Languages: `Python`, `JavaScript`, `C/C++`, `PHP`
-- 🌐 Web Dev: `HTML5`, `CSS3`, `Bootstrap`
-- 🗄️ Databases: `MySQL`
+- 🌐 Web Dev: `HTML5`, `CSS3`, `Bootstrap` `React.js` `Node.js` `Flask`
+- 🗄️ Databases: `MySQL` `postgreSQL`
 - 📊 Data Tools: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `Pytorch`, `tensorflow`, `powerBI`
 - 🔧 Tools: `Git`, `VS Code`, `Google Colab`
 
